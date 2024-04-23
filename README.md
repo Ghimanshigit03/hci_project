@@ -11,4 +11,4 @@ With the present-day advances in VR (Virtual Reality) and its utility in each da
 -	Instead of using more expensive sensors, a simple web camera can identify the gesture and perform the action.
 -	It helps the user to interact with a computer without any physical and hardware device to control mouse operation.
 
-**[Click here]([link_to_drive](https://drive.google.com/drive/folders/13emyCtSm00ZLOnPm4AfBhHNjLJrqmHEE?usp=sharing)) to view the demonstration of the project.**
+***[Click here]*([link_to_drive](https://drive.google.com/drive/folders/13emyCtSm00ZLOnPm4AfBhHNjLJrqmHEE?usp=sharing)) to view the demonstration of the project.**
