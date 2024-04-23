@@ -1,4 +1,4 @@
-# HCIpROJECT_GROUP 15
+## HCI PROJECT_GROUP 15
 With the present-day advances in VR (Virtual Reality) and its utility in each day lives, Bluetooth and wi-fi automation are getting more and more accessible. This paper proposes a visual AI machine that makes use of pc imaginative and prescient to carry out mouse, keyboard, and stylus capabilities the use of hand gestures and hand tip acquisition. Instead of the use of fashionable headsets or outside devices, the proposed system tracks finger and hand movements and uses a webcam or built-in camera to process the computer. It's simple and effective, so this solution can be removed continuously [1]. Use of additional hardware, battery life, and ultimately brings ease of use.
 
 -	This project is to develop a Virtual Mouse using Hand Gesture Recognition.
